@@ -1,4 +1,5 @@
 @@||webking.com.br^$important
+@@||hostpanel.srv.br^important
 @@||serpro.gov.br^$important
 @@||gov.br^$important
 @@||hostpanel.com.br^$important
