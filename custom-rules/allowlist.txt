@@ -7,8 +7,8 @@
 @@||nextdns.io^$important
 @@||dns1.nextdns.io^$important
 @@||tailscale.com^$important
-@@||mytv-extra.com^important
-@@||ceagxaf.mmastertv.xyz^important
-@@||wuppxmk.leadervpn.xyz^important
-@@||1password.drift.click^important
-@@||1password.com^important
+@@||mytv-extra.com^$important
+@@||ceagxaf.mmastertv.xyz^$important
+@@||wuppxmk.leadervpn.xyz^$important
+@@||1password.drift.click^$important
+@@||1password.com^$important
