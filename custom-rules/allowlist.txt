@@ -18,3 +18,4 @@
 @@||1password.drift.click^
 @@||1password.com^
 @@||1passwordservices.com^
+@@||ovhcloud.com^
