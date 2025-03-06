@@ -19,3 +19,4 @@
 @@||1password.com^
 @@||1passwordservices.com^
 @@||ovhcloud.com^
+@@||zfrmz.com^
