@@ -20,3 +20,4 @@
 @@||1passwordservices.com^
 @@||ovhcloud.com^
 @@||zfrmz.com^
+@@||americanexpress.com^
